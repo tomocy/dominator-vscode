@@ -3,6 +3,8 @@
     "displayName": "Donimator",
     "description": "themes for PSYCHO-PASS lovers",
     "version": "0.0.1",
+    "author": "tomocy",
+    "publisher": "tomocy",
     "engines": {
         "vscode": "^1.33.0"
     },
