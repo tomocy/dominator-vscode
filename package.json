@@ -19,5 +19,6 @@
                 "path": "./themes/paralyzer.json"
             }
         ]
-    }
+    },
+    "icon": "icon.png"
 }
