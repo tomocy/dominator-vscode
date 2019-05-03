@@ -20,6 +20,7 @@
             }
         ]
     },
+    "license": "https://github.com/tomocy/dominator-vscode/blob/master/LICENSE",
     "homepage": "https://github.com/tomocy/dominator-vscode",
     "repository": {
         "type": "git",
