@@ -2,6 +2,18 @@
 
 If you love [PSYCHO-PASS](https://psycho-pass.com), this theme is the best for you.
 
+## Installation
+
+Launch Quick Open with:
+
+- Linux `ctrl+P`
+- macOS `cmd+P`
+- Windows `ctrl+P`
+```
+ext install material theme
+```
+And pick the one by tomocy as author.
+
 ## Themes
 - ### Paralyzer
     This is for those whose Crime Coefficient is under 300.  
