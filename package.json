@@ -1,0 +1,21 @@
+{
+    "name": "donimator",
+    "displayName": "Donimator",
+    "description": "themes for PSYCHO-PASS lovers",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Paralyzer",
+                "uiTheme": "vs-dark",
+                "path": "./themes/paralyzer.json"
+            }
+        ]
+    }
+}
