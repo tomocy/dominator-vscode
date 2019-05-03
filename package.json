@@ -12,7 +12,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Paralyzer",
+                "label": "Dominator Paralyzer",
                 "uiTheme": "vs-dark",
                 "path": "./themes/paralyzer.json"
             }
