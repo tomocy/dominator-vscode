@@ -1,13 +1,21 @@
-# README
-## This is the README for your extension "donimator"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Dominator
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+If you love [PSYCHO-PASS](https://psycho-pass.com), this theme is the best for you.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## Themes
+- ### Paralyzer
+    This is for those whose Crime Coefficient is under 300.  
+    <br>
+    ***Please aim calmly and subdue the target.***  
+    ![Paralyzer](paralyzer.png)
+    
+- ### Eliminator
+    This is for those whose Crime Coefficient exceeds 300.  
+    <br>
+    ***Please aim carefully and eliminate the target.***  
+    Coming soon.  
+- ### Decomposer  
+    This theme is not for anything usual.  
+    <br>
+    ***Target will be completely annihilated. Please proceed with maximum caution.***  
+    Coming soon.  
