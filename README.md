@@ -10,7 +10,7 @@ Launch Quick Open with:
 - macOS `cmd+P`
 - Windows `ctrl+P`
 ```
-ext install material theme
+ext install dominator
 ```
 And pick the one by tomocy as author.
 
