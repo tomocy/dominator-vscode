@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -eu
+
 PUBLISHER=tomocy
 ACCESS_TOKEN_URL="https://dev.azure.com/$PUBLISHER/_usersSettings/tokens"
 

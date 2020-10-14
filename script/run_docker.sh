@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -eu
+
 WORKDIR=/user/vsce/vscode-dominator
 
 docker run \
