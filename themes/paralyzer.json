@@ -22,12 +22,12 @@
     "editor.selectionBackground": "#717CB450",
     "editor.selectionHighlightBackground": "#FFCC0020",
     "editorOverviewRuler.border": "#000000",
-    "editorOverviewRuler.errorForeground": "#C21E5840",
+    "editorOverviewRuler.errorForeground": "#DE2163FF",
     "editorOverviewRuler.infoForeground": "#00FFD840",
     "editorOverviewRuler.warningForeground": "#00FFD840",
     "editorInfo.foreground": "#00FFD870",
     "editorWarning.foreground": "#00FFD870",
-    "editorError.foreground": "#C21E5870",
+    "editorError.foreground": "#DE216370",
     "editorHoverWidget.background": "#000000",
     "editorHoverWidget.border": "#E0E7FF10",
     "editorIndentGuide.background": "#3B3F5170",
@@ -36,7 +36,7 @@
     "editorGroup.border": "#00000030",
     "editorGutter.modifiedBackground": "#00FFD860",
     "editorGutter.addedBackground": "#09E7FB60",
-    "editorGutter.deletedBackground": "#C21E5860",
+    "editorGutter.deletedBackground": "#DE216360",
     "tab.activeBorder": "#08BCCC",
     "tab.activeModifiedBorder": "#525975",
     "tab.unfocusedActiveBorder": "#464B5D",
@@ -72,7 +72,7 @@
     "input.foreground": "#EEFFFF",
     "input.placeholderForeground": "#E0E7FF60",
     "input.border": "#E0E7FF10",
-    "inputValidation.errorBorder": "#C21E5850",
+    "inputValidation.errorBorder": "#DE216390",
     "inputValidation.infoBorder": "#00FFD850",
     "inputValidation.warningBorder": "#00FFD850",
     "dropdown.background": "#000000",
@@ -86,8 +86,8 @@
     "list.focusBackground": "#E0E7FF20",
     "list.focusForeground": "#E0E7FF",
     "list.highlightForeground": "#08BCCC",
-    "list.warningForeground": "#c2881d",
-    "list.errorForeground": "#c21e58",
+    "list.warningForeground": "#DEC32C",
+    "list.errorForeground": "#DE2163",
     "terminal.ansiWhite": "#FFFFFF",
     "terminal.ansiBlack": "#000000",
     "terminal.ansiBlue": "#09E7FB",
@@ -124,7 +124,7 @@
     "panelTitle.activeForeground": "#E0E7FF",
     "panelTitle.activeBorder": "#08BCCC",
     "diffEditor.insertedTextBackground": "#09E7FB15",
-    "diffEditor.removedTextBackground": "#C21E5820",
+    "diffEditor.removedTextBackground": "#DE216320",
     "notifications.background": "#000000",
     "notifications.foreground": "#E0E7FF",
     "notificationLink.foreground": "#08BCCC",
@@ -143,7 +143,7 @@
     "peekViewEditor.matchHighlightBackground": "#717CB450",
     "debugToolBar.background": "#000000",
     "pickerGroup.foreground": "#08BCCC",
-    "gitDecoration.deletedResourceForeground": "#C21E5890",
+    "gitDecoration.deletedResourceForeground": "#DE216390",
     "gitDecoration.conflictingResourceForeground": "#00FFD890",
     "gitDecoration.modifiedResourceForeground": "#00FFD890",
     "gitDecoration.untrackedResourceForeground": "#09E7FB90",
@@ -216,7 +216,7 @@
         "invalid.illegal"
       ],
       "settings": {
-        "foreground": "#C21E58"
+        "foreground": "#DE2163"
       }
     },
     {
@@ -406,7 +406,7 @@
         "variable.other.class.js"
       ],
       "settings": {
-        "foreground": "#C21E58"
+        "foreground": "#DE2163"
       }
     },
     {
@@ -482,7 +482,7 @@
         "markup.deleted"
       ],
       "settings": {
-        "foreground": "#C21E58"
+        "foreground": "#DE2163"
       }
     },
     {
@@ -541,7 +541,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#C21E58"
+        "foreground": "#DE2163"
       }
     },
     {
@@ -577,7 +577,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#C21E58"
+        "foreground": "#DE2163"
       }
     },
     {
@@ -613,7 +613,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#C21E58"
+        "foreground": "#DE2163"
       }
     },
     {
