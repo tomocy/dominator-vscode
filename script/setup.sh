@@ -14,7 +14,7 @@ echo "   - Scope = Custom defined"
 echo "   - Scope.Marketplace = Manage"
 echo "3. Create and Copy the access token"
 
-vsce login "$PUBLISHER"
+yarn run vsce login "$PUBLISHER"
 
 echo "Set git credentials"
 IFS="" read -r -p 'user.name: ' NAME
