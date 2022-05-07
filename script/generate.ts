@@ -307,10 +307,19 @@ const paralyzer: Theme = {
     {
       scope: [
         'comment',
+        'punctuation.definition.comment',
       ],
       settings: {
         fontStyle: 'italic',
         foreground: `${colors.white}bb`,
+      },
+    },
+    {
+      scope: [
+        'punctuation',
+      ],
+      settings: {
+        foreground: colors.white,
       },
     },
     {

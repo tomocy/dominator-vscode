@@ -235,11 +235,20 @@
     },
     {
       "scope": [
-        "comment"
+        "comment",
+        "punctuation.definition.comment"
       ],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#e0e7ffbb"
+      }
+    },
+    {
+      "scope": [
+        "punctuation"
+      ],
+      "settings": {
+        "foreground": "#e0e7ff"
       }
     },
     {
