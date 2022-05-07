@@ -1,6 +1,9 @@
 .vscode/**
 .vscode-test/**
+.devcontainer/**
 .gitignore
-vsc-extension-quickstart.md
-Dockerfile
+.eslintrc.js
+node_modules/**
 script/**
+yarn.lock
+vsc-extension-quickstart.md
