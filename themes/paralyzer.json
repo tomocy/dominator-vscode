@@ -142,7 +142,7 @@
     "terminal.ansiRed": "#de2163",
     "terminal.ansiYellow": "#dec32c",
     "terminal.ansiBrightWhite": "#e0e7ff",
-    "terminal.ansiBrightBlack": "#464b5d",
+    "terminal.ansiBrightBlack": "#e0e7ffbb",
     "terminal.ansiBrightBlue": "#09e7fb",
     "terminal.ansiBrightCyan": "#09e7fb",
     "terminal.ansiBrightGreen": "#00ffd8",
@@ -190,7 +190,7 @@
     "method": "#09e7fb",
     "macro": "#09e7fb",
     "label": "#00ffd8",
-    "comment": "#464b5d",
+    "comment": "#e0e7ffbb",
     "string": "#e0e7ff",
     "keyword": "#00ffd8",
     "number": "#f78c6c",
@@ -239,7 +239,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#464b5d"
+        "foreground": "#e0e7ffbb"
       }
     },
     {
