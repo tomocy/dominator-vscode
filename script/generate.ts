@@ -201,6 +201,7 @@ const paralyzer: Theme = {
     'extensionButton.prominentBackground': `${colors.blue}90`,
     'extensionButton.prominentHoverBackground': colors.blue,
     'pickerGroup.foreground': colors.blue,
+    'quickInputList.focusBackground': '#717cb450',
     'terminal.foreground': colors.white,
     'terminal.ansiWhite': colors.white,
     'terminal.ansiBlack': colors.black,

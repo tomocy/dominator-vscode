@@ -132,6 +132,7 @@
     "extensionButton.prominentBackground": "#09e7fb90",
     "extensionButton.prominentHoverBackground": "#09e7fb",
     "pickerGroup.foreground": "#09e7fb",
+    "quickInputList.focusBackground": "#717cb450",
     "terminal.foreground": "#e0e7ff",
     "terminal.ansiWhite": "#e0e7ff",
     "terminal.ansiBlack": "#000000",
