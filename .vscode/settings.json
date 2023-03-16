@@ -1,8 +1,14 @@
 {
     "editor.codeActionsOnSave": {
-        "source.fixAll": true,
+        "source.fixAll": true
     },
     "eslint.enable": true,
     "javascript.format.enable": false,
     "typescript.format.enable": false,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
 }
