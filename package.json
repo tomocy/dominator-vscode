@@ -32,7 +32,9 @@
     },
     "icon": "icon.png",
     "scripts": {
-        "build": "tsc script/generate.ts && node script/generate.js"
+        "login": "./script/login.sh",
+        "build": "tsc script/generate.ts && node script/generate.js",
+        "publish": "vsce publish"
     },
     "devDependencies": {
         "@types/node": "^17.0.31",
